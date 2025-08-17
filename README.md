@@ -10,3 +10,8 @@ Curso del primer curso de Phyton, aplicado a las ciencias sociales.
 2. Sociology
 3. Psicology
 4. Economics
+## Foods
+1. Pollito
+2. Arroz
+3. Croquetas
+4. Premios o snacks
