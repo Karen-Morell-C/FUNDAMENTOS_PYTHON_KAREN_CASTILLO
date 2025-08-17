@@ -23,3 +23,9 @@ Curso del primer curso de Phyton, aplicado a las ciencias sociales.
 3. Sonaja
 4. Paper
 
+## Schools
+1. Liceo
+2. Valle de Dios
+3. Valcarcel
+4. Vallejo
+
