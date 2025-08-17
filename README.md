@@ -10,3 +10,8 @@ Curso del primer curso de Phyton, aplicado a las ciencias sociales.
 2. Sociology
 3. Psicology
 4. Economics
+## Toys
+1. Ball
+2. Peluches
+3. Sonaja
+4. Paper
